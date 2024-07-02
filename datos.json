@@ -1,0 +1,64 @@
+{
+    "ahorcado": [
+        {
+            "id": 1,
+            "ES": "elefante",
+            "EN": "elephant",
+            "BR": "elefante"
+        },
+        {
+            "id": 2,
+            "ES": "departamento",
+            "EN": "department",
+            "BR": "departmento"
+        },
+        {
+            "id": 3,
+            "ES": "medicina",
+            "EN": "medicine",
+            "BR": "medicamento"
+        },
+        {
+            "id": 4,
+            "ES": "ingenieria",
+            "EN": "engineering",
+            "BR": "engenharia"
+        },
+        {
+            "id": 5,
+            "ES": "computadora",
+            "EN": "computer",
+            "BR": "computador"
+        },
+        {
+            "id": 6,
+            "ES": "dispositivo",
+            "EN": "device",
+            "BR": "dispositivo"
+        },
+        {
+            "id": 7,
+            "ES": "software",
+            "EN": "software",
+            "BR": "programas"
+        },
+        {
+            "id": 8,
+            "ES": "hardware",
+            "EN": "hardware",
+            "BR": "hardware"
+        },
+        {
+            "id": 9,
+            "ES": "idioma",
+            "EN": "language",
+            "BR": "linguagem"
+        },
+        {
+            "id": 10,
+            "ES": "ciudadano",
+            "EN": "citizen",
+            "BR": "cidadao"
+        }
+    ]
+}

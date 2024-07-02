@@ -1,0 +1,32 @@
+{
+    "jugadores": [
+        {
+            "nombre": "Pablo",
+            "puntaje": 100
+        },
+        {
+            "nombre": "Juan",
+            "puntaje": 25
+        },
+        {
+            "nombre": "Messi",
+            "puntaje": 90
+        },
+        {
+            "nombre": "CR7",
+            "puntaje": 32
+        },
+        {
+            "nombre": "David",
+            "puntaje": 80
+        },
+        {
+            "nombre": "Paul",
+            "puntaje": 91
+        },
+        {
+            "nombre": "Pablinho",
+            "puntaje": 94
+        }
+    ]
+}
